@@ -11,12 +11,12 @@ const
     <div className={styles.row}>
       <div className={styles.column}>
         <div className={styles.caption}>Native</div>
-        <Button primary>Primary</Button>
+        <Button primary>Button</Button>
       </div>
 
       <div className={styles.column}>
         <div className={styles.caption}>Styled</div>
-        <Button primary className={styles.button}>Primary</Button>
+        <Button primary className={styles.button}>Button</Button>
       </div>
     </div>
   </div>;

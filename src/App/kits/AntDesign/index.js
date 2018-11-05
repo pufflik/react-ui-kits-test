@@ -16,7 +16,7 @@ const
 
       <div className={styles.column}>
         <div className={styles.caption}>Styled</div>
-        <Button type="primary" className={styles.button}>Primary</Button>
+        <Button type="primary" className={styles.button}>Button</Button>
       </div>
     </div>
   </div>;
