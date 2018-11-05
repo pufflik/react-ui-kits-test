@@ -9,7 +9,7 @@ const
     className?: string,
   }) => <div className={classnames('sidebar', props.className)}>
     <div className="sidebar__header">
-      Frameworks:
+      Kits:
     </div>
 
     <NavLink
